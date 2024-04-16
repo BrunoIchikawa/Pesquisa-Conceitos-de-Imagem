@@ -43,3 +43,35 @@ Sem contar que uma imagem vetorial é extremamente mais leve para processamento,
 
 <h4>Imagem Futura Express</h4>
 <img src="Imagem4.jpg">
+
+
+
+<h1>Cores</h1>
+
+<h2>Densidade de Cores (Bits):</h2>
+<p>A densidade de cores em imagens digitais refere-se à quantidade de informações de cor que uma imagem pode representar. Ela é medida em bits por pixel (bpp), o que indica quantos bits são usados para descrever a cor de cada pixel na imagem.
+
+Por exemplo, em uma imagem em preto e branco, apenas 1 bit por pixel é necessário, pois esse único bit pode indicar se o pixel é branco ou preto. Isso é conhecido como imagem em escala de cinza.
+
+Em imagens coloridas, a densidade de cores é geralmente maior. Por exemplo, em uma imagem em tons de cinza, cada pixel pode ser representado por 8 bits, permitindo 256 tons diferentes de cinza. Em uma imagem colorida RGB (Red, Green, Blue), cada pixel é composto por três canais de cor: vermelho, verde e azul. Cada canal pode ter uma profundidade de cor de 8 bits, resultando em 24 bits no total (8 bits por canal x 3 canais), ou seja, 16,7 milhões de cores possíveis. Isso é conhecido como imagem de 24 bits ou imagem de "true color".
+
+Às vezes, você pode encontrar imagens com uma densidade de cor ainda maior, como imagens de 32 bits por pixel, que incluem um canal adicional para transparência (alpha channel), usado em técnicas de composição de imagem, como a transparência em camadas.</p>
+
+<h4>Imagem do ArtStation</h4>
+<img src="Imagem5.jpg">
+
+<h2>Modelos de Cores:</h2>
+<p>Os modelos de cores são sistemas usados para representar e descrever as cores de uma forma que seja compreensível e manipulável por computadores. Existem vários modelos de cores, cada um com sua própria maneira de descrever cores.
+
+RGB (Red, Green, Blue): Este é um dos modelos de cores mais comuns em imagens digitais. Ele representa cores combinando diferentes intensidades de vermelho, verde e azul. Cada cor primária é representada por um valor de 0 a 255 em cada canal, onde 0 significa ausência de cor e 255 significa a intensidade máxima da cor.
+
+CMYK (Cyan, Magenta, Yellow, Black): Este modelo de cores é comumente usado em impressão. Ele funciona subtraindo cores da luz branca refletida pelo papel. As cores são representadas por porcentagens de tinta nas quatro cores primárias: ciano, magenta, amarelo e preto. A combinação dessas cores pode criar uma ampla gama de cores.
+
+HSB/HSV (Hue, Saturation, Brightness/Value): Este modelo descreve cores em termos de matiz (tonalidade), saturação (pureza da cor) e brilho (intensidade da luz). É frequentemente usado em softwares de design gráfico e edição de imagens para facilitar o ajuste e seleção de cores.
+
+LAB: Este é um modelo de cores baseado em percepção humana, que separa a luminosidade (L) da cor (a e b). Ele é usado em aplicações onde é importante manter a consistência das cores, como na indústria de impressão e design gráfico.
+
+Estes são apenas alguns exemplos de modelos de cores utilizados em imagens digitais. Cada um tem suas próprias vantagens e aplicações específicas, e a escolha do modelo de cores adequado depende das necessidades do projeto e do meio de exibição ou impressão.</p>
+
+<img src="Imagem6.webp">
+
